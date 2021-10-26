@@ -1,6 +1,6 @@
 # A smart Calculator
 A smart calculator that accepts voice input
-![title](https://user-images.githubusercontent.com/39196039/40327390-5369e8e4-5d60-11e8-9e23-424f40325919.jpg)
+
 
 ## Steps for speech recognition
  - For recording, use The SpeechRecognition interface of the Web Speech API.
